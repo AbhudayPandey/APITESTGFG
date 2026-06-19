@@ -2,6 +2,7 @@ package org.example;
 
 /**
  * Hello world!
+ * Comment added for merging demo
  *
  */
 public class App 
