@@ -2,8 +2,12 @@ package org.example;
 
 /**
  * Hello world!
+<<<<<<< Updated upstream
  * Comment added for merging demo
  * Comment added by for merging testing end to end
+=======
+ * checking comment on it
+>>>>>>> Stashed changes
  */
 public class App 
 {
